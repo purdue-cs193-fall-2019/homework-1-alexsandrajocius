@@ -1,6 +1,6 @@
 # Alexsandra's First CS193 Homework
 
-- will introduce me to helpful tools
+- will introduce me to useful tools for my CS career
 - will make me comfortable with CS in general
 - low stress yet very informative
 - USB members can relate with us
