@@ -1,8 +1,8 @@
 # Alexsandra's First CS193 Homework
 
-- will introduce me to useful tools for my CS career
-- will make me comfortable with CS in general
-- low stress yet very informative
+What I like about CS193
+- being introduced to useful tools for my CS career
+- low stress yet informative
 - USB members can relate with us
 
 ## Welcome to GitHub Pages
