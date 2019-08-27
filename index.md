@@ -1,3 +1,10 @@
+# Alexsandra's First CS193 Homework
+
+- will introduce me to helpful tools
+- will make me comfortable with CS in general
+- low stress yet very informative
+- USB members can relate with us
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
